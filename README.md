@@ -1,5 +1,5 @@
 # PYTHON PROJECTS
-### These are basic projects written in Python language using such as SQL and Django.
+### These are basic projects written in Python language using SQL and Django.
 
 
 ### Projects:
